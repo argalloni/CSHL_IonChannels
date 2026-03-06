@@ -116,7 +116,7 @@ Just put your data (.abf files) into the correct subfolder inside *"/data"* and 
 
 Happy analyzing!
 
-### 5. Bonus: some simple terminal commands
+## Bonus: some simple terminal commands
 
 This is not required for the installation, but it is useful to know a few basic commands for navigating the terminal:
 - **cd**: change directory
@@ -129,7 +129,7 @@ This is not required for the installation, but it is useful to know a few basic 
 - **pwd**: print working directory
     This shows you the full path to the current directory
 
-### 6. Bonus 2: Interactive simulator of the electronic circuits inside a patch-clamp amplifier
+## Bonus 2: Interactive simulator of the electronic circuits inside a patch-clamp amplifier
 
 ![image](images/electronics_simulator.png)
 
