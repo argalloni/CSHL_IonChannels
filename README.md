@@ -129,3 +129,14 @@ This is not required for the installation, but it is useful to know a few basic 
 - **pwd**: print working directory
     This shows you the full path to the current directory
 
+### 6. Bonus 2: Interactive simulator of the electronic circuits inside a patch-clamp amplifier
+
+![image](images/electronics_simulator.png)
+
+If you want to get a deeper understanding and intuition of what your voltage-clamp and current-clamp circuits are doing, I encourage you to play with this interactive simulator. To use it, just go to:
+
+https://www.falstad.com/circuit/circuitjs.html
+
+Click on  ```File > Open File``` and select the file (located inside this folder) called "Patch_clamp_recording_electronics.txt" 
+
+You can change any variable you want, or modify any of the circuits. If you break the circuit and want to start again, you can always just reload the .txt file!

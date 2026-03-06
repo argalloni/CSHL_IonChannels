@@ -4,7 +4,6 @@
 *.atf
 *.pro
 *.dat
-*.png
 *.ai
 .DS_Store
 
